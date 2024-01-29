@@ -1,4 +1,4 @@
-# tictactoe
+# Tic-tac-toe
  
 Tictactoe made in PixiJS.
 
